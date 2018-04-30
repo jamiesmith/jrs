@@ -46,6 +46,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+
 sass:
   style: compressed
 exclude:
