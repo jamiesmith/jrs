@@ -8,3 +8,4 @@ gem "jekyll-sitemap"
 gem "jemoji"
 gem 'jekyll-feed'
 gem "jekyll-redirect-from"
+gem 'github-pages'
